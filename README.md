@@ -17,3 +17,4 @@ The Defensive Security SIEM Project provides a practical reference for cybersecu
 - Tool Demonstrations: Practical demonstrations showcasing the usage of Splunk for log collection, analysis, and correlation.
 - Threat Detection and Incident Response: Techniques for detecting and responding to security threats using Splunk's capabilities.
 - Compliance Monitoring: Guidance on leveraging Splunk for compliance monitoring and reporting to meet regulatory requirements.
+- Analyzing Windows Server and Apache Logs: Included instructions and examples for analyzing logs from Windows Server and Apache web servers to enhance threat detection and incident response capabilities.
